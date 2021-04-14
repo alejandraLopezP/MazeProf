@@ -1,0 +1,12 @@
+/home/dimas/Documents/AlejandraLab/Logic/bin/Debug/net5.0/Logic.deps.json
+/home/dimas/Documents/AlejandraLab/Logic/bin/Debug/net5.0/Logic.dll
+/home/dimas/Documents/AlejandraLab/Logic/bin/Debug/net5.0/ref/Logic.dll
+/home/dimas/Documents/AlejandraLab/Logic/bin/Debug/net5.0/Logic.pdb
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.csprojAssemblyReference.cache
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.AssemblyInfoInputs.cache
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.AssemblyInfo.cs
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.dll
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/ref/Logic.dll
+/home/dimas/Documents/AlejandraLab/Logic/obj/Debug/net5.0/Logic.pdb
